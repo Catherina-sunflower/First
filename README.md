@@ -1,5 +1,5 @@
 # First
-first try to create a repository following Mr.Hu chuanoeng's lesson
+first try to create a repository following Mr.Hu's R lesson
 # 一级标题
 ## 二级标题
 ###三级标题
